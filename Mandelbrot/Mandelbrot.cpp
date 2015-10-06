@@ -208,6 +208,7 @@ COLORREF Color(int n)
 	case 13: return RGB(200, 0, 100);
 	case 14: return RGB(100, 0, 200);
 	case 15: return RGB(200, 0, 200);
+
 	default: return RGB(200, 200, 200);
 	};
 }
