@@ -270,3 +270,5 @@ size_t IteratePoint(double zReal, double zImaginary, double cReal, double cImagi
 	}
 	return n;
 }
+
+//tuxiaomi branch
